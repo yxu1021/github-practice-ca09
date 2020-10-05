@@ -67,4 +67,7 @@
 |35|Beatriz Vala | 27 | Beatrizvala | <https://github.com/Beatrizvala/my_website> | <https://beatrizvalawebsite.netlify.app/> | 2020-10-05 |
 |36|Hanna Zimmer | 30 | Hanna311 | <https://github.com/Hanna311/my-portfolio-website> | <https://zimmerhanna.netlify.app> | 2020-10-05 |
 |37|Hui Sheng | 26 | Rebecca-Sheng | <https://github.com/Rebecca-Sheng/website_Rebecca> | <https://rebeccawebsite.netlify.app/> | 2020-10-05 |
-|38|Jade Gu | 1 | JadeGu | <https://github.com/JadeGu/my_website> | <https://jadeguzy.netlify.app> | 2020-10-05 |
+|38|Guilherme Baldanzi | 16 | baldanziguilherme | <https://github.com/baldanziguilherme/my_website> | <https://guilhermebaldanzi.netlify.app/> | 2020-10-05 |
+|39|Valeria Pavero|18|valeriapavero|<https://github.com/valeriapavero/my_website1>|<https://valeriapavero.netlify.app>|2020-10-05|
+|40|Kyle Scheps | 15 | kylescheps | <https://github.com/kylescheps/my_website> | <https://kyles0.netlify.app/> | 2020-10-05 |
+|41|Jade Gu | 1 | JadeGu | <https://github.com/JadeGu/my_website> | <https://jadeguzy.netlify.app> | 2020-10-05 |
