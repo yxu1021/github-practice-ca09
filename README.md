@@ -65,3 +65,4 @@
 |33 | Shawn Wu | 7 | swumfa2021 | <https://github.com/swumfa2021/my_website> | <https://shawnwu-portfolio.netlify.app/> | 2020-10-5|
 |34|Chiso Okoro | 33 | chiso-lbs | <https://github.com/chiso-lbs/my_website.git> | <https://chiso.netlify.app/> |2020-10-05 
 |35|Beatriz Vala | 27 | Beatrizvala | <https://github.com/Beatrizvala/my_website> | <https://beatrizvalawebsite.netlify.app/> | 2020-10-05 |
+|36|Hanna Zimmer | 30 | Hanna311 | <https://github.com/Hanna311/my-portfolio-website> | <https://zimmerhanna.netlify.app> | 2020-10-05 |
