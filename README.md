@@ -60,3 +60,4 @@
 |28|Azmi Dzulkarnain | 27 | azmidzul | <https://github.com/azmidzul/my_website2.git> | <https://azmisite10.netlify.app/> |2020-10-04 |
 |29|Yutao Jin | 32 | YutaoJin | <https://github.com/YutaoJin/my_website.git> | <https://yutaojinwebsite.netlify.app/> |2020-10-04
 |30|Zimeng Zhou | 13 | zimengzhouzm | <https://github.com/zimengzhouzm/mywebsite_new.git> | <https://zimengzhou-new.netlify.app/> |2020-10-05 |
+|31|Clara Liu | 18 | clarachangliu | <https://github.com/clarachangliu/my_website.git> | <https://clarachangliu.netlify.app/> | 2020-10-5 |
