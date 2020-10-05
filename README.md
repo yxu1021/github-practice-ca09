@@ -71,3 +71,4 @@
 |39|Valeria Pavero|18|valeriapavero|<https://github.com/valeriapavero/my_website1>|<https://valeriapavero.netlify.app>|2020-10-05|
 |40|Kyle Scheps | 15 | kylescheps | <https://github.com/kylescheps/my_website> | <https://kyles0.netlify.app/> | 2020-10-05 |
 |41|Jade Gu | 1 | JadeGu | <https://github.com/JadeGu/my_website> | <https://jadeguzy.netlify.app> | 2020-10-05 |
+|42|Aman Sharma|37|amansharmfa|<https://github.com/amansharmfa/myportfoliowebsite>|<https://aman-sharma-portfolio.netlify.app>|2020-10-05|
