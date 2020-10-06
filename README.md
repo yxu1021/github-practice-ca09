@@ -78,3 +78,4 @@
 |46|Leonie von Loeper|20|Leonielvl|<https://github.com/leonielvl/my_website>|<https://leonievonloeper.netlify.app/>|2020-10-06|
 |47|Yusen Chen|3|YusenChenLBS|<https://github.com/YusenChenLBS/mywesit_7>|<https://yusenokk.netlify.app//>|2020-10-06|
 |48|Blanche Lelouvier|17|blanchelelou|<https://github.com/blanchelelou/my_website>|<https://blanchelelouvier.netlify.app/>|2020-10-06|
+|49|Andrea Gerards|27|AndreaGerards|<https://github.com/AndreaGerards/my_website>|<https://agerards-portfolio.netlify.app//>|2020-10-06|
