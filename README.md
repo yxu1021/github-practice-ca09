@@ -56,7 +56,7 @@
 |24|Hugo Huere Alvarado | 33 | Hugo-Huere-Alvarado | <https://github.com/Hugo-Huere-Alvarado/my_website> | <https://hugo-huere-alvarado-portfolio.netlify.app> |2020-10-03 |
 |25|Mark Negodyuk   | 8   | MNegodyuk |<https://github.com/MNegodyuk/my_website>   |<https://mnegodyuk.netlify.app/>        |2020-10-03 
 |26|Pingchuan Tian   | 6   | Pingchuan-Tian |<https://github.com/Pingchuan-Tian/my_website>   |<https://pingchuan-tian.netlify.app/>        |2020-10-03 
-|27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |https://github.com/cathy-gu/my_website#my_website   |https://cathygu.netlify.app        |2020-10-04
+|27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |https://github.com/cathy-gu/my_website#my_website   |https://cathy-gu.netlify.app        |2020-10-04
 |28|Azmi Dzulkarnain | 27 | azmidzul | <https://github.com/azmidzul/my_website2.git> | <https://azmisite10.netlify.app/> |2020-10-04 |
 |29|Yutao Jin | 32 | YutaoJin | <https://github.com/YutaoJin/my_website.git> | <https://yutaojinwebsite.netlify.app/> |2020-10-04
 |30|Zimeng Zhou | 13 | zimengzhouzm | <https://github.com/zimengzhouzm/mywebsite_new.git> | <https://zimengzhou-new.netlify.app/> |2020-10-05 |
