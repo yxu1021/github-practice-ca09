@@ -81,3 +81,4 @@
 |49|Mayssa Maring|19|mayssa537|<https://github.com/mayssa537/my_website>|<https://mayssam.netlify.app>|2020-10-06|
 |50|Alexander Pracht|29|AlexanderPracht|<https://github.com/AlexanderPracht/my_website>|<https://alex-pracht.netlify.app//>|2020-10-06|
 |51|Andrea Gerards|27|AndreaGerards|<https://github.com/AndreaGerards/my_website>|<https://agerards-portfolio.netlify.app//>|2020-10-06|
+|52|Marius Dippe|11|mdippe01|<https://github.com/mdippe01/my_website>|<https://mariusdippemfa2021.netlify.app>|2020-10-06|
