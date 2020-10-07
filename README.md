@@ -82,3 +82,4 @@
 |50|Alexander Pracht|29|AlexanderPracht|<https://github.com/AlexanderPracht/my_website>|<https://alex-pracht.netlify.app//>|2020-10-06|
 |51|Andrea Gerards|27|AndreaGerards|<https://github.com/AndreaGerards/my_website>|<https://agerards-portfolio.netlify.app//>|2020-10-06|
 |52|Marius Dippe|11|mdippe01|<https://github.com/mdippe01/my_website>|<https://mariusdippemfa2021.netlify.app>|2020-10-06|
+|53|Satyam Gorry|37|satyamG7|<https://github.com/SatyamG7/website7.gite>|<https://satyamgorry-portfolio.netlify.app>|2020-10-07|
