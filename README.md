@@ -77,4 +77,6 @@
 |45|Emmanuel Van Lembergen |1| EmmanuelVL|https://github.com/EmmanuelVL/my_website.git|2020-10-06|
 |46|Leonie von Loeper|20|Leonielvl|<https://github.com/leonielvl/my_website>|<https://leonievonloeper.netlify.app/>|2020-10-06|
 |47|Yusen Chen|3|YusenChenLBS|<https://github.com/YusenChenLBS/mywesit_7>|<https://yusenokk.netlify.app//>|2020-10-06|
-|48|Alexander Pracht|29|AlexanderPracht|<https://github.com/AlexanderPracht/my_website>|<https://alex-pracht.netlify.app//>|2020-10-06|
+|48|Blanche Lelouvier|17|blanchelelou|<https://github.com/blanchelelou/my_website>|<https://blanchelelouvier.netlify.app/>|2020-10-06|
+|49|Mayssa Maring|19|mayssa537|<https://github.com/mayssa537/my_website>|<https://mayssam.netlify.app>|2020-10-06|
+|50|Alexander Pracht|29|AlexanderPracht|<https://github.com/AlexanderPracht/my_website>|<https://alex-pracht.netlify.app//>|2020-10-06|
