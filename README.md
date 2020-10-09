@@ -89,3 +89,4 @@
 |57|Karan Pandanda|2|karanpandanda|<https://github.com/karanpandanda/final_website_submission>|<https://karanpandanda.netlify.app/>|2020-1
 |58|Muhammad Nauman Alam Khan|34|NaumanKhanMFA|https://github.com/NaumanKhanMFA/my_website|<https://naumankhan.netlify.app/>|2020-10-09|
 |59|Madhur Agarwal|4|agarwalmadhur27|<https://github.com/agarwalmadhur27/Madhur_website>|<https://madhur-agarwal.netlify.app/>|2020-10-09|
+|60|Deepak Guneja|35|deepak-guneja|<https://github.com/deepak-guneja/my_website>|<https://deepak-guneja.netlify.app/>|2020-10-09|
