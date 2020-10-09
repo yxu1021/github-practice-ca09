@@ -95,3 +95,4 @@
 |63| Justine Veyrenc | 35 | justineveyrenc | <https://github.com/justineveyrenc/my_website99> | <https://justinesportfolio.netlify.app> | 2020-10-09|
 |64| Jenny Jin | 30 | jennyjin0429 | <https://github.com/jennyjin0429/my_website99.git> | <https://jennyjin0429-portfolio.netlify.app/> | 2020-10-09|
 |64|Zhonglong Wu|27|kris-wu-zl|<https://github.com/kris-wu-zl/my_website>|<https://kris-wu.netlify.app/>|2020-10-09|
+|65|Aljaz Sirocic|1|AljazSirocic|<https://github.com/AljazSirocic/my_website1>|<https://aljaz2021.netlify.app/>|2020-10-09|
