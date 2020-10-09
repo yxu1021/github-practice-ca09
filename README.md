@@ -93,3 +93,4 @@
 |61| Elia Waidele | 17 | ewaidele |<https://github.com/ewaidele/my_website> | <https://eliawaidele.netlify.app> |2020-10-09|
 |62| Paul Behrends | 14 | pbehrends| <https://github.com/pbehrends/my_website2> | <https://paul-behrends-portfolio.netlify.app/> |2020-10-09|
 |63| Justine Veyrenc | 35 | justineveyrenc | <https://github.com/justineveyrenc/my_website99> | <https://justinesportfolio.netlify.app> | 2020-10-09|
+|64| Jenny Jin | 30 | jennyjin0429 | <https://github.com/jennyjin0429/my_website99.git> | <https://jennyjin0429-portfolio.netlify.app/> | 2020-10-09|
