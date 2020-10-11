@@ -103,3 +103,4 @@
 |71|Aris Georgakopoulos|11|arisgeo96|https://github.com/arisgeo96/my_website|<https://arisgeo.netlify.app>|2020-10-10|
 |72|Ann LEI|21|Yannan-LEI|<https://github.com/Yannan-LEI/my_website>|<https://annlei.netlify.app/>|2020-10-11|
 |73|Yu Luo|24|yluo979|<https://github.com/yluo979/website>|<https://yluo.netlify.app>|2020-10-11|
+|74|Riccardo Persico|35|rpersico|<https://github.com/rpersico/my__website>|<https://riccardopersicowebsite.netlify.app/>|2020-10-11 
