@@ -106,7 +106,7 @@
 |74|Riccardo Persico|35|rpersico|<https://github.com/rpersico/my__website>|<https://riccardopersicowebsite.netlify.app/>|2020-10-11 
 |75|Darren Ho|28|darrenho149|https://github.com/darrenho149/my_website|https://darrenho.netlify.app/|2020-10-11
 |76|Lucas Kasper|32|lucaskasper|<https://github.com/lucaskasper/my_website>|<https://lucaskasper.netlify.app/>|2020-10-11
-|77|Christopher Tranquille |32|cptranquille|<https://github.com/cptranquille/website999>|<cptranquille2021.netlify.app>|2020-10-11
+|77|Christopher Tranquille |32|cptranquille|<https://github.com/cptranquille/website999>|<https://cptranquille2021.netlify.app>|2020-10-11
 |78|Xiaoqi Pan| 32 | michelle-pan |https://github.com/michelle-pan/my_website|https://xiaoqipan.netlify.app |2020-10-11
 |79|Luca Toraldo |22|lucatoraldo|<https://github.com/lucatoraldo/my_website00>|<https://lucatoraldowebsite.netlify.app>|2020-10-11|
 |80|Christopher Baumann |34|cjbcoding|<https://github.com/CJBcoding/my_website>|<https://cjbcoding.netlify.app/>|2020-10-12|
