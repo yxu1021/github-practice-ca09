@@ -118,3 +118,4 @@
 |86|Daniel Zeiner | 19| danielzeiner0410 |<https://github.com/danielzeiner0410/website1>   |<https://danielzeinerportfolio.netlify.app>|2020-10-12
 |87|Nona Velez |27| nonavelezgut | <https://github.com/nonavelezgut/my_website> |<https://nonavelez.netlify.app> | 2020-10-12
 |88|Xuan(Olivia) Zhang |8| oliviazhang-0111 |<https://github.com/oliviazhang-0111/my_website2>   |<https://oliviazhang-personal.netlify.app>|2020-10-12
+|89|Karim Abi Fadel|24|karimabifadel|<https://github.com/karimabifadel/my_website>|<https://karim-abi-fadel.netlify.app/>|2020-10-12
