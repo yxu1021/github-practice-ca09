@@ -111,3 +111,4 @@
 |79|Luca Toraldo |22|lucatoraldo|<https://github.com/lucatoraldo/my_website00>|<https://lucatoraldowebsite.netlify.app>|2020-10-11|
 |80|Christopher Baumann |34|cjbcoding|<https://github.com/CJBcoding/my_website>|<https://cjbcoding.netlify.app/>|2020-10-12|
 |81|Leif Beckers |23|LBeckers|<https://github.com/LBeckers/my_website>|<https://leif-beckers.netlify.app/>|2020-10-12|
+|82|Charlotte Soverall |32|charlotte-soverall|<https://github.com/charlotte-soverall/my_website>|<https://charlotte-soverall.netlify.app>|2020-10-12|
