@@ -113,4 +113,5 @@
 |81|Leif Beckers |23|LBeckers|<https://github.com/LBeckers/my_website>|<https://leif-beckers.netlify.app/>|2020-10-12|
 |82|Charlotte Soverall |32|charlotte-soverall|<https://github.com/charlotte-soverall/my_website>|<https://charlotte-soverall.netlify.app>|2020-10-12|
 |83|Shengwei Lai |29|Shengwei-Lai|https://github.com/Shengwei-Lai/my_website|https://shengwei-portfolio.netlify.app/|2020-10-12|
+|84|Bernardo de Carvalho Galvão |14|BernardoGalvao|https://github.com/BernardoGalvao|https://bernardogalvao.netlify.app/|2020-10-12|
 |85|Eduardo Henrique | 26| eduardohlg2000 |<https://github.com/eduardohlg2000/my_website>   |https://eduardohlg2000.netlify.app/>|2020-10-12
