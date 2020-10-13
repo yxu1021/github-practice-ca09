@@ -127,3 +127,4 @@
 |95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-portfolio.netlify.app|2020-10-13
 |96|Kasia Gasiewska|37|kasiagasiewska| <https://github.com/kasiagasiewska/my_website> | <https://kasia-portfolio.netlify.app> |2020-10-13
 |97|Alexandre Minot|9|AlexMinot| <https://github.com/AlexMinot/my_website> | <https://alexandre-minot-portfolio.netlify.app/> |2020-10-13
+|98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite.git>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
