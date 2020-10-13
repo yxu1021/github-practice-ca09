@@ -123,3 +123,4 @@
 |91|Shreya Salot|25|shreyasalot|<https://github.com/shreyasalot/my_website2>|<https://shreyasalot.netlify.app/>|2020-10-13
 |92|Raphaël Nahoum|21|nahoumraphael|https://github.com/nahoumraphael/FinalWebsite|https://nahoum-raphael-website.netlify.app|2020-10-13
 |93|Rayna Zhang|34|RaynaPOI| <https://github.com/RaynaPOI/Rayna_website> | <https://raynazhang99.netlify.app/> |2020-10-13
+|94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website.git> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
