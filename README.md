@@ -124,3 +124,4 @@
 |92|Raphaël Nahoum|21|nahoumraphael|https://github.com/nahoumraphael/FinalWebsite|https://nahoum-raphael-website.netlify.app|2020-10-13
 |93|Rayna Zhang|34|RaynaPOI| <https://github.com/RaynaPOI/Rayna_website> | <https://raynazhang99.netlify.app/> |2020-10-13
 |94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website.git> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
+|95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-portfolio.netlify.app|2020-10-13
