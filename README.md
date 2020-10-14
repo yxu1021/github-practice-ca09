@@ -135,3 +135,4 @@
 |103|Fabio Bodenmann|25|fabio-bodenmann | <https://github.com/fabio-bodenmann/my_website> | <https://fabio-portfolio.netlify.app/> |2020-10-14
 |104|Federico Carrara|24|FedericoC22 | <https://github.com/FedericoC22/my_website> | <https://federico-carrara-portfolio.netlify.app/> |2020-10-14
 |105|Robert Carollo|5|robbiecarollo | <https://github.com/robbiecarollo/my_website> | <https://robertlondon.netlify.app> |2020-10-14
+|106|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/my_website> | <https://konstantine-portfolio.netlify.app/>  2020-10-14
