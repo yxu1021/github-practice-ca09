@@ -57,13 +57,13 @@
 |25|Mark Negodyuk   | 8   | MNegodyuk |<https://github.com/MNegodyuk/my_website>   |<https://mnegodyuk.netlify.app/>        |2020-10-03 
 |26|Pingchuan Tian   | 6   | Pingchuan-Tian |<https://github.com/Pingchuan-Tian/my_website>   |<https://pingchuan-tian.netlify.app/>        |2020-10-03 
 |27|Cathy-Yuanmeng-Gu | 17 | cathy-gu |https://github.com/cathy-gu/i_am_cathy_gu   | <https://cathygu.netlify.app/>        |2020-10-04
-|28|Azmi Dzulkarnain | 27 | azmidzul | <https://github.com/azmidzul/my_website2.git> | <https://azmisite10.netlify.app/> |2020-10-04 |
-|29|Yutao Jin | 32 | YutaoJin | <https://github.com/YutaoJin/my_website.git> | <https://yutaojinwebsite.netlify.app/> |2020-10-04
-|30|Zimeng Zhou | 13 | zimengzhouzm | <https://github.com/zimengzhouzm/mywebsite_new.git> | <https://zimengzhou-new.netlify.app/> |2020-10-05 |
-|31|Clara Liu | 18 | clarachangliu | <https://github.com/clarachangliu/my_website.git> | <https://clarachangliu.netlify.app/> | 2020-10-5 |
+|28|Azmi Dzulkarnain | 27 | azmidzul | <https://github.com/azmidzul/my_website2> | <https://azmisite10.netlify.app/> |2020-10-04 |
+|29|Yutao Jin | 32 | YutaoJin | <https://github.com/YutaoJin/my_website> | <https://yutaojinwebsite.netlify.app/> |2020-10-04
+|30|Zimeng Zhou | 13 | zimengzhouzm | <https://github.com/zimengzhouzm/mywebsite_new> | <https://zimengzhou-new.netlify.app/> |2020-10-05 |
+|31|Clara Liu | 18 | clarachangliu | <https://github.com/clarachangliu/my_website> | <https://clarachangliu.netlify.app/> | 2020-10-5 |
 |32|Xiwen Wang | 23 | xiwenwang233 | <https://github.com/xiwenwang233/my_website99> | <https://xiwenwang233.netlify.app> | 2020-10-5 |
 |33 | Shawn Wu | 7 | swumfa2021 | <https://github.com/swumfa2021/my_website> | <https://shawnwu-portfolio.netlify.app/> | 2020-10-5|
-|34|Chiso Okoro | 33 | chiso-lbs | <https://github.com/chiso-lbs/my_website.git> | <https://chiso.netlify.app/> |2020-10-05 
+|34|Chiso Okoro | 33 | chiso-lbs | <https://github.com/chiso-lbs/my_website> | <https://chiso.netlify.app/> |2020-10-05 
 |35|Beatriz Vala | 27 | Beatrizvala | <https://github.com/Beatrizvala/my_website> | <https://beatrizvalawebsite.netlify.app/> | 2020-10-05 |
 |36|Hanna Zimmer | 30 | Hanna311 | <https://github.com/Hanna311/Hanna-website> | <https://hannaz.netlify.app> | 2020-10-05 |
 |37|Hui Sheng | 26 | Rebecca-Sheng | <https://github.com/Rebecca-Sheng/website_Rebecca> | <https://rebeccawebsite.netlify.app/> | 2020-10-05 |
@@ -72,7 +72,7 @@
 |40|Kyle Scheps | 15 | kylescheps | <https://github.com/kylescheps/my_website> | <https://kyles0.netlify.app/> | 2020-10-05 |
 |41|Jade Gu | 1 | JadeGu | <https://github.com/JadeGu/my_website> | <https://jadeguzy.netlify.app> | 2020-10-05 |
 |42|Aman Sharma|37|amansharmfa|<https://github.com/amansharmfa/myportfoliowebsite>|<https://aman-sharma-portfolio.netlify.app>|2020-10-05|
-|43|Deniz Gokmen|10|denizgokmen|<https://github.com/denizgokmen/my_website.git>|<https://deniz-portfolio.netlify.app>|2020-10-06|
+|43|Deniz Gokmen|10|denizgokmen|<https://github.com/denizgokmen/my_website>|<https://deniz-portfolio.netlify.app>|2020-10-06|
 |44|Konstantin Pinkl|36|kpinkl|<https://github.com/kpinkl/my_website>|<https://konstantinpinkl.netlify.app/>|2020-10-06|
 |45|Emmanuel Van Lembergen |1| EmmanuelVL|https://github.com/EmmanuelVL/my_website.git|2020-10-06|
 |46|Leonie von Loeper|20|Leonielvl|<https://github.com/leonielvl/my_website>|<https://leonievonloeper.netlify.app/>|2020-10-06|
@@ -93,7 +93,7 @@
 |61| Elia Waidele | 17 | ewaidele |<https://github.com/ewaidele/my_website> | <https://eliawaidele.netlify.app> |2020-10-09|
 |62| Paul Behrends | 14 | pbehrends| <https://github.com/pbehrends/my_website2> | <https://paul-behrends-portfolio.netlify.app/> |2020-10-09|
 |63| Justine Veyrenc | 35 | justineveyrenc | <https://github.com/justineveyrenc/my_website99> | <https://justinesportfolio.netlify.app> | 2020-10-09|
-|64| Jenny Jin | 30 | jennyjin0429 | <https://github.com/jennyjin0429/my_website99.git> | <https://jennyjin0429-portfolio.netlify.app/> | 2020-10-09|
+|64| Jenny Jin | 30 | jennyjin0429 | <https://github.com/jennyjin0429/my_website99> | <https://jennyjin0429-portfolio.netlify.app/> | 2020-10-09|
 |65|Zhonglong Wu|27|kris-wu-zl|<https://github.com/kris-wu-zl/my_website>|<https://kris-wu.netlify.app/>|2020-10-09|
 |66|Aljaz Sirocic|1|AljazSirocic|<https://github.com/AljazSirocic/my_website1>|<https://aljaz2021.netlify.app/>|2020-10-09|
 |67|Alexander Kirk|22|AlexanderKKirk|<https://github.com/AlexanderKKirk/my_website>|<https://alexanderkirk.netlify.app>|2020-10-09|
@@ -123,17 +123,18 @@
 |91|Shreya Salot|25|shreyasalot|<https://github.com/shreyasalot/my_website2>|<https://shreyasalot.netlify.app/>|2020-10-13
 |92|Raphaël Nahoum|21|nahoumraphael|https://github.com/nahoumraphael/FinalWebsite|https://nahoum-raphael-website.netlify.app|2020-10-13
 |93|Rayna Zhang|34|RaynaPOI| <https://github.com/RaynaPOI/Rayna_website_final> | <https://raynazhang99.netlify.app/> |2020-10-13
-|94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website.git> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
+|94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
 |95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-portfolio.netlify.app|2020-10-13
 |96|Kasia Gasiewska|37|kasiagasiewska| <https://github.com/kasiagasiewska/my_website> | <https://kasia-portfolio.netlify.app> |2020-10-13
 |97|Alexandre Minot|9|AlexMinot| <https://github.com/AlexMinot/my_website> | <https://alexandre-minot-portfolio.netlify.app/> |2020-10-13
-|98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite.git>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
+|98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
 |99|Todor Kuveljic|9|todor-kuveljic|<https://github.com/todor-kuveljic/my_website99>|<https://todorstest.netlify.app>|2020-10-13
-|100|Andjela Bozinovic|23|andjelabozinovic|<https://github.com/andjelabozinovic/best_web.git>|<https://andjelas-website.netlify.app>|2020-10-13
+|100|Andjela Bozinovic|23|andjelabozinovic|<https://github.com/andjelabozinovic/best_web>|<https://andjelas-website.netlify.app>|2020-10-13
 |101|Sebasitan Ingemann|31|sebastian-ing|<https://github.com/sebastian-ing/websitefinal>|<https://ingemannportfolio.netlify.app/>|2020-10-14
 |102|Vincenz Mautner-Markhof|6|VincenzMM | <https://github.com/VincenzMM/my_website> | <https://vincenz-portfolio.netlify.app> |2020-10-14
 |103|Fabio Bodenmann|25|fabio-bodenmann | <https://github.com/fabio-bodenmann/my_website> | <https://fabio-portfolio.netlify.app/> |2020-10-14
 |104|Federico Carrara|24|FedericoC22 | <https://github.com/FedericoC22/my_website> | <https://federico-carrara-portfolio.netlify.app/> |2020-10-14
 |105|Robert Carollo|5|robbiecarollo | <https://github.com/robbiecarollo/my_website> | <https://robertlondon.netlify.app> |2020-10-14
 |106|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/my_website> | <https://konstantine-portfolio.netlify.app/>  2020-10-14
-|107|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
+|107|Ilinca Ostahie|26|IlincaOstahie | <https://github.com/IlincaOstahie/my_website> | <https://ilincas-website.netlify.app> |2020-10-14
+|108|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
