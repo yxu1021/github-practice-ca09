@@ -146,3 +146,4 @@
 |115|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/website_portfolio> | <https://konstantine-portfolio.netlify.app/> |2020-10-16
 |116|Max Clark|36|<https://github.com/mpoclark/Maxclark_portfolio.git>|<https://mpoclark.netlify.app>|2020-10-16
 |117|Maximilien de Foresta|10|Mdeforesta | <https://github.com/Mdeforesta/my_website> | <https://maximilien-de-foresta.netlify.app/> |2020-10-16
+|118|Aleksandr Rudakov|30|alexrudakov1|<https://github.com/alexrudakov1/my_website.git>|<https://rudakov-portfolio.netlify.app/>
