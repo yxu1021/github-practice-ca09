@@ -142,3 +142,4 @@
 |110|Hans-Christian Preyer|22|HCPreyer|https://github.com/HCPreyer/my.website| https://hans-christianpreyer.netlify.app/ |2020-10-15
 |111|Linda Wu|29|Xueying-Wu|<https://github.com/Xueying-Wu/my_website.git>|<https://lindawu-portfolio.netlify.app/>|2020-10-15
 |112|Haopeng Zhou|11|zhouhaop1997|https://github.com/zhouhaop1997/my_website|https://haopeng-zhou-mfa2021.netlify.app/|2020-10-15
+|113|Terence Tang|3|Terence-Tang|https://github.com/Terence-Tang/My_Website|https://terencetang.netlify.app/|2020-10-16
