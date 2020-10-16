@@ -135,7 +135,6 @@
 |103|Fabio Bodenmann|25|fabio-bodenmann | <https://github.com/fabio-bodenmann/my_website> | <https://fabio-portfolio.netlify.app/> |2020-10-14
 |104|Federico Carrara|24|FedericoC22 | <https://github.com/FedericoC22/my_website> | <https://federico-carrara-portfolio.netlify.app/> |2020-10-14
 |105|Robert Carollo|5|robbiecarollo | <https://github.com/robbiecarollo/my_website> | <https://robertlondon.netlify.app> |2020-10-14
-|106|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/my_website> | <https://konstantine-portfolio.netlify.app/>  2020-10-14
 |107|Ilinca Ostahie|26|IlincaOstahie | <https://github.com/IlincaOstahie/my_website> | <https://ilincas-website.netlify.app> |2020-10-14
 |108|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
 |109|Johanna Henriksson|3|johanna97| <https://github.com/JohannaHen/Website3> | <https://app.netlify.com/sites/johanna97>|2020-10-15
@@ -144,3 +143,4 @@
 |112|Haopeng Zhou|11|zhouhaop1997|https://github.com/zhouhaop1997/my_website|https://haopeng-zhou-mfa2021.netlify.app/|2020-10-15
 |113|Terence Tang|3|Terence-Tang|https://github.com/Terence-Tang/My_Website|https://terencetang.netlify.app/|2020-10-16
 114|Yi Cao|10|Yi-Cao-September|<https://https://github.com/Yi-Cao-September/my_website.git>|<https://yicao.netlify.app/>|2020-1016
+|115|Konstantine Skandalis|24|KonstantineSK | <https://github.com/KonstantineSk/website_portfolio> | <https://konstantine-portfolio.netlify.app/> |2020-10-16
