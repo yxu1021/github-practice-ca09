@@ -128,7 +128,7 @@
 |96|Kasia Gasiewska|37|kasiagasiewska| <https://github.com/kasiagasiewska/my_website> | <https://kasia-portfolio.netlify.app> |2020-10-13
 |97|Alexandre Minot|9|AlexMinot| <https://github.com/AlexMinot/my_website> | <https://alexandre-minot-portfolio.netlify.app/> |2020-10-13
 |98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
-|99|Todor Kuveljic|9|todor-kuveljic|<https://github.com/todor-kuveljic/my_website99>|<https://todorstest.netlify.app>|2020-10-13
+|99|Todor Kuveljic|9|todor-kuveljic|<https://github.com/todor-kuveljic/test.git>|<https://todorstest.netlify.app>|2020-10-13
 |100|Andjela Bozinovic|23|andjelabozinovic|<https://github.com/andjelabozinovic/best_web>|<https://andjelas-website.netlify.app>|2020-10-13
 |101|Sebasitan Ingemann|31|sebastian-ing|<https://github.com/sebastian-ing/websitefinal>|<https://ingemannportfolio.netlify.app/>|2020-10-14
 |102|Vincenz Mautner-Markhof|6|VincenzMM | <https://github.com/VincenzMM/my_website> | <https://vincenz-portfolio.netlify.app> |2020-10-14
@@ -148,4 +148,5 @@
 |117|Maximilien de Foresta|10|Mdeforesta | <https://github.com/Mdeforesta/my_website> | <https://maximilien-de-foresta.netlify.app/> |2020-10-16
 |118|Aleksandr Rudakov|30|alexrudakov1|<https://github.com/alexrudakov1/my_website.git>|<https://rudakov-portfolio.netlify.app/>
 |119|Atonio Giannaccari|9|AntonioGiannaccari|<https://github.com/AntonioGiannaccari/website20.git>|<https://antoniogiannaccari.netlify.app/>|2020-10-16
-|120|Sahas Duggirala|21|SahasDuggirala|<https://github.com/Sahas96/mywebsite96>|<https://sahas-portfolio.netlify.app/>|2020-10-16
+|120|Danagul Galimzhaniva|31|dg2855|<https://github.com/dg2855/danas_website>|<https://danagul-galimzhanova.netlify.app/>|2020-10-16
+|121|Sahas Duggirala|21|SahasDuggirala|<https://github.com/Sahas96/mywebsite96>|<https://sahas-portfolio.netlify.app/>|2020-10-16
