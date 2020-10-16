@@ -148,3 +148,4 @@
 |117|Maximilien de Foresta|10|Mdeforesta | <https://github.com/Mdeforesta/my_website> | <https://maximilien-de-foresta.netlify.app/> |2020-10-16
 |118|Aleksandr Rudakov|30|alexrudakov1|<https://github.com/alexrudakov1/my_website.git>|<https://rudakov-portfolio.netlify.app/>
 |119|Atonio Giannaccari|9|AntonioGiannaccari|<https://github.com/AntonioGiannaccari/website20.git>|<https://antoniogiannaccari.netlify.app/>|2020-10-16
+|120|Guillaume Borigite|27|GBLBS|<https://github.com/GBLBS/Individual-Portfolio-Website>|<https://guillaume-borigite.netlify.app/>|2020-10-16
