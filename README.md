@@ -140,3 +140,4 @@
 |108|Julien Canestrier|20|JCanestrier| <https://github.com/JCanestrier/my_website> | <https://julien-canestrier.netlify.app/> |2020-10-15
 |109|Johanna Henriksson|3|johanna97| <https://github.com/JohannaHen/Website3> | <https://app.netlify.com/sites/johanna97>|2020-10-15
 |110|Hans-Christian Preyer|22|HCPreyer|https://github.com/HCPreyer/my.website| https://hans-christianpreyer.netlify.app/ |2020-10-15
+|111|Linda Wu|29|Xueying-Wu|<https://github.com/Xueying-Wu/my_website.git>|<https://lindawu-portfolio.netlify.app/>|2020-10-15
