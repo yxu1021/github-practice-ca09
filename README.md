@@ -152,3 +152,4 @@
 |121|Sahas Duggirala|21|SahasDuggirala|<https://github.com/Sahas96/mywebsite96>|<https://sahas-portfolio.netlify.app/>|2020-10-16
 |122|Guillaume Borigite|27|GBLBS|<https://github.com/GBLBS/Individual-Portfolio-Website>|<https://guillaume-borigite.netlify.app/>|2020-10-16
 |123| Yirui Xu |22| yxu1021 | https://github.com/yxu1021 | https://irena-xu.netlify.app/ | 2020-10-17
+|124| Erkka Salo |12| Saloerkka | <https://github.com/Saloerkka> | <https://erkka-salo-portfolio.netlify.app/> | 2020-10-17
