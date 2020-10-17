@@ -151,7 +151,7 @@
 |120|Danagul Galimzhaniva|31|dg2855|<https://github.com/dg2855/danas_website>|<https://danagul-galimzhanova.netlify.app/>|2020-10-16
 |121|Sahas Duggirala|21|SahasDuggirala|<https://github.com/Sahas96/mywebsite96>|<https://sahas-portfolio.netlify.app/>|2020-10-16
 |122|Guillaume Borigite|27|GBLBS|<https://github.com/GBLBS/Individual-Portfolio-Website>|<https://guillaume-borigite.netlify.app/>|2020-10-16
-|123| Yirui Xu |22| yxu1021 | https://github.com/yxu1021 | https://irena-xu.netlify.app/ | 2020-10-17
+|123| Yirui Xu |22| yxu1021 | <https://github.com/yxu1021> | <https://irena-xu.netlify.app/> | 2020-10-17
 |124| Erkka Salo |12| Saloerkka | <https://github.com/Saloerkka> | <https://erkka-salo-portfolio.netlify.app/> | 2020-10-17
 |125|Joshua Nemy |12| JoshuaNemy | <https://github.com/JoshuaNemy> | "https://joshuanemy.netlify.app/" | 2020-10-17
 |126| Benjamin Marks |4| Ben-Marks | <https://github.com/Ben-Marks> | <https://benmarks.netlify.app/> | 2020-10-17
